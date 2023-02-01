@@ -1,5 +1,5 @@
 # Parallex-Project
-This Website is designed and Coded by me to practice Parallax effect in CSS.
+This Website is designed and Coded by me to practice Parallax effect in CSS. <br/>
 Concepts used in website:-
       1. Preserved3D
       2. Z-index
