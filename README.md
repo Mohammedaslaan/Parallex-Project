@@ -14,6 +14,6 @@ Live Link :- https://mohammedaslaan.github.io/Parallex-Project/
 <br/>
 <br/>
 
-![p5](https://user-images.githubusercontent.com/81412984/216107094-9d6f713d-4aaa-413b-b034-1e96c8f0b1b3.jpg)
+![p5](https://user-images.githubusercontent.com/81412984/216107190-f0c2aad4-2261-4cb8-a4b7-0e72dcdba7ce.jpg)
 
 
